@@ -1,0 +1,26 @@
+[
+    {
+        "produto": "Aero Daily Fitness Tee",
+        "tamanho": "M",
+        "cor": "Brown",
+        "quantidade": "2"
+    },
+    {
+        "produto": "Abominable Hoodie",
+        "tamanho": "S",
+        "cor": "Green",
+        "quantidade": "5"
+    },
+    {
+        "produto": "Aether Gym Pant",
+        "tamanho": 33,
+        "cor": "Blue",
+        "quantidade": 2
+    },
+    {
+        "produto": "Ariel Roll Sleeve Sweatshirt",
+        "tamanho": "XL",
+        "cor": "Purple",
+        "quantidade": "5"
+    }
+]

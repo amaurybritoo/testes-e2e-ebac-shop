@@ -6,13 +6,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "cy:open": "npx cypress open",
-    "cy:run": "npx cypress run",
+    "cy:run": "npx cypress run --browser chrome",
     "cy:dashboard": "",
-    "cy:report": ""
+    "cy:report": "npx cypress run --record --key 7f6a6226-1fdb-4145-bb7a-e9fa59caa651"
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/amaurybritoo/teste-ebac-ui"
   },
   "keywords": [],
   "author": "",
@@ -22,7 +22,7 @@
   },
   "homepage": "",
   "devDependencies": {
-    "cypress": "^9.7.0"
+    "cypress": "^13.8.1"
   },
   "dependencies": {
     "faker": "^5.5.3"
